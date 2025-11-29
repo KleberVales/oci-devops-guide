@@ -17,3 +17,4 @@
 | 04 | [OKE and work with managing nodes](https://github.com/KleberVales/oci-devops-guide/wiki/01-DevOps-introduction) |
 | 05 | [Working with virtual nodes in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/02-Microservices-and-Containerization) |
 | 06 | [Working with Self-Managed Nodes](https://github.com/KleberVales/oci-devops-guide/wiki/03-Kubernetes-Basics) |
+| 07 | [Managing deployments in Kubernetes]() |
