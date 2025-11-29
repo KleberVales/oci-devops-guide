@@ -18,4 +18,5 @@
 | 05 | [Working with virtual nodes in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/02-Microservices-and-Containerization) |
 | 06 | [Working with Self-Managed Nodes](https://github.com/KleberVales/oci-devops-guide/wiki/03-Kubernetes-Basics) |
 | 07 | [Managing deployments in Kubernetes]() |
-| 08 | [Configuring Storage for Kubernetes Clusters in OKE] () |
+| 08 | [Configuring Storage for Kubernetes Clusters in OKE]() |
+| 09 | [Administering and Managing OKE Clusters]() |
