@@ -20,3 +20,4 @@
 | 07 | [Managing deployments in Kubernetes]() |
 | 08 | [Configuring Storage for Kubernetes Clusters in OKE]() |
 | 09 | [Administering and Managing OKE Clusters]() |
+| 10 | [Security in Container Engine for Kubernetes]() |
