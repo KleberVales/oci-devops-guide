@@ -29,10 +29,10 @@
 
 | Nº | Pages |
 |----|--------|
-| 12 | [Projeto OCI DevOps: Conceitos Básicos]() |
-| 13 | [Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)]() |
-| 14 | [Projeto OCI DevOps: Estratégias de Implantação]() |
-| 15 | [Projeto OCI DevOps: Implantações com Helm Charts]() |
+| 12 | [Projeto OCI DevOps: Conceitos Básicos](https://github.com/KleberVales/oci-devops-guide/wiki/12-OCI-DevOps-Project:-Basic-Concepts) |
+| 13 | [Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)](https://github.com/KleberVales/oci-devops-guide/wiki/13-OCI-DevOps-Project:-Continuous-Integration-and-Continuous-Delivery-(CI%E2%80%90CD)) |
+| 14 | [Projeto OCI DevOps: Estratégias de Implantação](https://github.com/KleberVales/oci-devops-guide/wiki/14-OCI-DevOps-Project:-Deployment-Strategies) |
+| 15 | [Projeto OCI DevOps: Implantações com Helm Charts](https://github.com/KleberVales/oci-devops-guide/wiki/15-OCI-DevOps-Project:-Deployments-with-Helm-Charts) |
 
 --- 
 
