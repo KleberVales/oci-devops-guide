@@ -15,7 +15,7 @@
 | Nº | Pages |
 |----|--------|
 | 04 | [OKE and work with managing nodes](https://github.com/KleberVales/oci-devops-guide/wiki/04-OKE-and-working-with-managed-nodes) |
-| 05 | [Setting up OKE Cluster access]() |
+| 05 | [Setting up OKE Cluster access](https://github.com/KleberVales/oci-devops-guide/wiki/05-Setting-up-OKE-Cluster-access) |
 | 06 | [Working with Virtual Nodes in OKE]() |
 | 07 | [Working with Self‐Managed Nodes]() |
 | 08 | [Managing deployments in Kubernetes]() |
