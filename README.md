@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-| Nº | Página |
+| Nº | Pages |
 |----|--------|
 | 01 | [Introduction to DevOps](https://github.com/KleberVales/oci-devops-guide/wiki/01-DevOps-introduction) |
 | 02 | [Microservices and Containerization](https://github.com/KleberVales/oci-devops-guide/wiki/02-Microservices-and-Containerization) |
@@ -12,7 +12,7 @@
 
 ## Oracle Kubernetes Engine (OKE)
 
-| Nº | Página |
+| Nº | Pages |
 |----|--------|
 | 04 | [OKE and work with managing nodes](https://github.com/KleberVales/oci-devops-guide/wiki/01-DevOps-introduction) |
 | 05 | [Working with virtual nodes in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/02-Microservices-and-Containerization) |
@@ -24,9 +24,9 @@
 
 ---
 
-## Projetos com OCI DevOps
+## Projects with OCI DevOps
 
-| Nº | Página |
+| Nº | Pages |
 |----|--------|
 | 04 | [Projeto OCI DevOps: Conceitos Básicos]() |
 | 05 | [Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)]() |
