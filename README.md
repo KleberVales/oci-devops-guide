@@ -33,3 +33,13 @@
 | 06 | [Projeto OCI DevOps: Estratégias de Implantação]() |
 | 07 | [Projeto OCI DevOps: Implantações com Helm Charts]() |
 
+--- 
+
+## Infrastructure as Code (IaC)
+
+| Nº | Pages |
+|----|--------|
+| 04 | [Terraform: Infrastructure as Code]() |
+| 05 | [OCI Resource Manager]() |
+
+
