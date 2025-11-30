@@ -42,4 +42,15 @@
 | 04 | [Terraform: Infrastructure as Code]() |
 | 05 | [OCI Resource Manager]() |
 
+---
+
+## Security and Observability
+
+| Nº | Pages |
+|----|--------|
+| 04 | [DevSecOps]() |
+| 05 | [Observability Services]() |
+
+---
+
 
