@@ -40,8 +40,8 @@
 
 | Nº | Pages |
 |----|--------|
-| 16 | [Terraform: Infrastructure as Code]() |
-| 17 | [OCI Resource Manager]() |
+| 16 | [Terraform: Infrastructure as Code](https://github.com/KleberVales/oci-devops-guide/wiki/16-Terraform:-Infrastructure-as-Code) |
+| 17 | [OCI Resource Manager](https://github.com/KleberVales/oci-devops-guide/wiki/17-OCI-Resource-Manager) |
 
 ---
 
@@ -49,8 +49,8 @@
 
 | Nº | Pages |
 |----|--------|
-| 18 | [DevSecOps]() |
-| 19 | [Observability Services]() |
+| 18 | [DevSecOps](https://github.com/KleberVales/oci-devops-guide/wiki/18-DevSecOps) |
+| 19 | [Observability Services](https://github.com/KleberVales/oci-devops-guide/wiki/19-Observability-Services) |
 
 ---
 
