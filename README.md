@@ -21,6 +21,7 @@
 | 08 | [Configuring Storage for Kubernetes Clusters in OKE]() |
 | 09 | [Administering and Managing OKE Clusters]() |
 | 10 | [Security in Container Engine for Kubernetes]() |
+| 11 | [Security in Container Engine for Kubernetes]() |
 
 ---
 
@@ -28,10 +29,10 @@
 
 | Nº | Pages |
 |----|--------|
-| 04 | [Projeto OCI DevOps: Conceitos Básicos]() |
-| 05 | [Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)]() |
-| 06 | [Projeto OCI DevOps: Estratégias de Implantação]() |
-| 07 | [Projeto OCI DevOps: Implantações com Helm Charts]() |
+| 12 | [Projeto OCI DevOps: Conceitos Básicos]() |
+| 13 | [Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)]() |
+| 14 | [Projeto OCI DevOps: Estratégias de Implantação]() |
+| 15 | [Projeto OCI DevOps: Implantações com Helm Charts]() |
 
 --- 
 
@@ -39,8 +40,8 @@
 
 | Nº | Pages |
 |----|--------|
-| 04 | [Terraform: Infrastructure as Code]() |
-| 05 | [OCI Resource Manager]() |
+| 16 | [Terraform: Infrastructure as Code]() |
+| 17 | [OCI Resource Manager]() |
 
 ---
 
@@ -48,8 +49,8 @@
 
 | Nº | Pages |
 |----|--------|
-| 04 | [DevSecOps]() |
-| 05 | [Observability Services]() |
+| 18 | [DevSecOps]() |
+| 19 | [Observability Services]() |
 
 ---
 
