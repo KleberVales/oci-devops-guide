@@ -16,12 +16,12 @@
 |----|--------|
 | 04 | [OKE and work with managing nodes](https://github.com/KleberVales/oci-devops-guide/wiki/04-OKE-and-working-with-managed-nodes) |
 | 05 | [Setting up OKE Cluster access](https://github.com/KleberVales/oci-devops-guide/wiki/05-Setting-up-OKE-Cluster-access) |
-| 06 | [Working with Virtual Nodes in OKE]() |
-| 07 | [Working with Self‐Managed Nodes]() |
-| 08 | [Managing deployments in Kubernetes]() |
-| 09 | [Configuring Storage for Kubernetes Clusters in OKE]() |
-| 10 | [Administering and Managing OKE Clusters]() |
-| 11 | [Security in Container Engine for Kubernetes]() |
+| 06 | [Working with Virtual Nodes in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/06-Working-with-Virtual-Nodes-in-OKE) |
+| 07 | [Working with Self‐Managed Nodes](https://github.com/KleberVales/oci-devops-guide/wiki/07-Working-with-Self%E2%80%90Managed-Nodes) |
+| 08 | [Managing deployments in Kubernetes](https://github.com/KleberVales/oci-devops-guide/wiki/08-Managing-deployments-in-Kubernetes) |
+| 09 | [Configuring Storage for Kubernetes Clusters in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/09-Configuring-Storage-for-Kubernetes-Clusters-in-OKE) |
+| 10 | [Administering and Managing OKE Clusters](https://github.com/KleberVales/oci-devops-guide/wiki/10-Administering-and-Managing-OKE-Clusters) |
+| 11 | [Security in Container Engine for Kubernetes](https://github.com/KleberVales/oci-devops-guide/wiki/11-Security-in-Container-Engine-for-Kubernetes) |
 
 ---
 
