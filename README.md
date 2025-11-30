@@ -21,3 +21,15 @@
 | 08 | [Configuring Storage for Kubernetes Clusters in OKE]() |
 | 09 | [Administering and Managing OKE Clusters]() |
 | 10 | [Security in Container Engine for Kubernetes]() |
+
+---
+
+## Projetos com OCI DevOps
+
+| Nº | Página |
+|----|--------|
+| 04 | [Projeto OCI DevOps: Conceitos Básicos]() |
+| 05 | [Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)]() |
+| 06 | [Projeto OCI DevOps: Estratégias de Implantação]() |
+| 07 | [Projeto OCI DevOps: Implantações com Helm Charts]() |
+
