@@ -37,6 +37,17 @@
 | 14 | [OCI DevOps Project: Deployment Strategies](https://github.com/KleberVales/oci-devops-guide/wiki/14-OCI-DevOps-Project:-Deployment-Strategies) |
 | 15 | [OCI DevOps Project: Deployments with Helm Charts](https://github.com/KleberVales/oci-devops-guide/wiki/15-OCI-DevOps-Project:-Deployments-with-Helm-Charts) |
 
+## Projects with DevOps
+
+| Nº | Pages |
+|----|--------|
+| 01 | [AWS CodePipeline]() |
+| 02 | [AWS CodeCommit]() |
+| 03 | [AWS CodeBuild]() |
+| 01 | [AWS CodeDeploy]() |
+| 02 | [AWS ECR / CodeArtifact]() |
+| 03 | [AWS Environments (CodeDeploy)]() |
+
 --- 
 
 ## Infrastructure as Code (IaC)
