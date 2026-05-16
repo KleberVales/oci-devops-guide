@@ -72,18 +72,3 @@ Microservices | Cloud | DevOps | Git/Github | Docker | Kubernetes | Scrum | Gene
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
