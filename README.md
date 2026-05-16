@@ -37,7 +37,7 @@
 | 14 | [OCI DevOps Project: Deployment Strategies](https://github.com/KleberVales/oci-devops-guide/wiki/14-OCI-DevOps-Project:-Deployment-Strategies) |
 | 15 | [OCI DevOps Project: Deployments with Helm Charts](https://github.com/KleberVales/oci-devops-guide/wiki/15-OCI-DevOps-Project:-Deployments-with-Helm-Charts) |
 
-## Projects with DevOps
+## Projects with DevOps with AWS
 
 | Nº | Pages |
 |----|--------|
