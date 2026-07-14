@@ -35,7 +35,7 @@
 ### 4.5 AWS ECR / CodeArtifact
 ### 4.6 AWS Environments (CodeDeploy)
 
-## Infrastructure as Code (IaC)
+## 5. Infrastructure as Code (IaC)
 
 |----|--------|
 | 16 | [Terraform: Infrastructure as Code](https://github.com/KleberVales/oci-devops-guide/wiki/16-Terraform:-Infrastructure-as-Code) |
