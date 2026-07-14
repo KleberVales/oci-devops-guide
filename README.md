@@ -23,7 +23,7 @@
 
 ### 3.1 OCI DevOps Project: Basic Concepts
 ### 3.2 OCI DevOps Project: Continuous Integration and Continuous Delivery (CI-CD)
-| 14 | [OCI DevOps Project: Deployment Strategies](https://github.com/KleberVales/oci-devops-guide/wiki/14-OCI-DevOps-Project:-Deployment-Strategies) |
+### 3.3 OCI DevOps Project: Deployment Strategies
 | 15 | [OCI DevOps Project: Deployments with Helm Charts](https://github.com/KleberVales/oci-devops-guide/wiki/15-OCI-DevOps-Project:-Deployments-with-Helm-Charts) |
 
 ## Projects with DevOps with AWS
