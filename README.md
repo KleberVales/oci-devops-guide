@@ -21,7 +21,6 @@
 
 ## 3. Projects with OCI DevOps
 
-| Nº | Pages |
 |----|--------|
 | 12 | [OCI DevOps Project: Basic Concepts](https://github.com/KleberVales/oci-devops-guide/wiki/12-OCI-DevOps-Project:-Basic-Concepts) |
 | 13 | [OCI DevOps Project: Continuous Integration and Continuous Delivery (CI-CD)](https://github.com/KleberVales/oci-devops-guide/wiki/13-OCI-DevOps-Project:-Continuous-Integration-and-Continuous-Delivery-(CI%E2%80%90CD)) |
