@@ -37,7 +37,6 @@
 
 ## Infrastructure as Code (IaC)
 
-| Nº | Pages |
 |----|--------|
 | 16 | [Terraform: Infrastructure as Code](https://github.com/KleberVales/oci-devops-guide/wiki/16-Terraform:-Infrastructure-as-Code) |
 | 17 | [OCI Resource Manager](https://github.com/KleberVales/oci-devops-guide/wiki/17-OCI-Resource-Manager) |
