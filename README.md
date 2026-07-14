@@ -6,7 +6,6 @@
 ### 1.2 Microservices and Containerization
 ### 1.3 Kubernetes Fundamentals
 
-
 ## 2. Oracle Kubernetes Engine (OKE)
 
 ### 2.1 OKE and work with managing nodes
@@ -26,15 +25,15 @@
 ### 3.3 OCI DevOps Project: Deployment Strategies
 ### 3.4 OCI DevOps Project: Deployments with Helm Charts
 
-## 5. Infrastructure as Code (IaC)
+## 4. Infrastructure as Code (IaC)
 
-### 5.1 Terraform: Infrastructure as Code
-### 5.2 OCI Resource Manager
+### 4.1 Terraform: Infrastructure as Code
+### 4.2 OCI Resource Manager
 
-## 6. Security and Observability
+## 5. Security and Observability
 
-### 6.1 DevSecOps
-### 6.2 Observability Services
+### 5.1 DevSecOps
+### 5.2 Observability Services
 
 ---
 
