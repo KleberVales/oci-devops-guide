@@ -18,9 +18,8 @@
 ### 2.7 Administering and Managing OKE Clusters
 ### 2.8 Security in Container Engine for Kubernetes
 
----
 
-## Projects with OCI DevOps
+## 3. Projects with OCI DevOps
 
 | Nº | Pages |
 |----|--------|
