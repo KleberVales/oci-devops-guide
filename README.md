@@ -26,15 +26,6 @@
 ### 3.3 OCI DevOps Project: Deployment Strategies
 ### 3.4 OCI DevOps Project: Deployments with Helm Charts
 
-## 4. Projects with DevOps with AWS
-
-### 4.1 AWS CodePipeline
-### 4.2 AWS CodeCommit
-### 4.3 AWS CodeBuild
-### 4.4 AWS CodeDeploy
-### 4.5 AWS ECR / CodeArtifact
-### 4.6 AWS Environments (CodeDeploy)
-
 ## 5. Infrastructure as Code (IaC)
 
 ### 5.1 Terraform: Infrastructure as Code
