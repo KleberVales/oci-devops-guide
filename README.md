@@ -4,7 +4,7 @@
 
 ### 1.1 Introduction to DevOps
 ### 1.2 Microservices and Containerization
-| 03 | [Kubernetes Fundamentals](https://github.com/KleberVales/oci-devops-guide/wiki/03-Kubernetes-Basics) |
+### 1.3 Kubernetes Fundamentals
 
 ---
 
