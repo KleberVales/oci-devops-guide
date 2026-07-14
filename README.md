@@ -38,9 +38,7 @@
 ## 5. Infrastructure as Code (IaC)
 
 ### 5.1 Terraform: Infrastructure as Code
-| 17 | [OCI Resource Manager](https://github.com/KleberVales/oci-devops-guide/wiki/17-OCI-Resource-Manager) |
-
----
+### 5.2 OCI Resource Manager
 
 ## Security and Observability
 
