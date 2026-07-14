@@ -26,7 +26,7 @@
 ### 3.3 OCI DevOps Project: Deployment Strategies
 ### 3.4 OCI DevOps Project: Deployments with Helm Charts
 
-## Projects with DevOps with AWS
+## 4. Projects with DevOps with AWS
 
 | Nº | Pages |
 |----|--------|
