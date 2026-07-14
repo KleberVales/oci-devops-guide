@@ -32,7 +32,7 @@
 ### 4.2 AWS CodeCommit
 ### 4.3 AWS CodeBuild
 ### 4.4 AWS CodeDeploy
-| 02 | [AWS ECR / CodeArtifact]() |
+### 4.5 AWS ECR / CodeArtifact
 | 03 | [AWS Environments (CodeDeploy)]() |
 
 --- 
