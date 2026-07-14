@@ -31,7 +31,7 @@
 ### 4.1 AWS CodePipeline
 ### 4.2 AWS CodeCommit
 ### 4.3 AWS CodeBuild
-| 01 | [AWS CodeDeploy]() |
+### 4.4 AWS CodeDeploy
 | 02 | [AWS ECR / CodeArtifact]() |
 | 03 | [AWS Environments (CodeDeploy)]() |
 
