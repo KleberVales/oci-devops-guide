@@ -15,8 +15,8 @@
 ### 2.4 Working with Self‐Managed Nodes
 ### 2.5 Managing deployments in Kubernetes
 ### 2.6 Configuring Storage for Kubernetes Clusters in OKE
-| 10 | [Administering and Managing OKE Clusters](https://github.com/KleberVales/oci-devops-guide/wiki/10-Administering-and-Managing-OKE-Clusters) |
-| 11 | [Security in Container Engine for Kubernetes](https://github.com/KleberVales/oci-devops-guide/wiki/11-Security-in-Container-Engine-for-Kubernetes) |
+### 2.7 Administering and Managing OKE Clusters
+### 2.8 Security in Container Engine for Kubernetes
 
 ## Elastic Kubernetes Service (EKS)
 
