@@ -6,9 +6,8 @@
 ### 1.2 Microservices and Containerization
 ### 1.3 Kubernetes Fundamentals
 
----
 
-## Oracle Kubernetes Engine (OKE)
+## 2. Oracle Kubernetes Engine (OKE)
 
 | Nº | Pages |
 |----|--------|
