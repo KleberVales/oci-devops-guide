@@ -29,7 +29,7 @@
 ## 4. Projects with DevOps with AWS
 
 ### 4.1 AWS CodePipeline
-| 02 | [AWS CodeCommit]() |
+### 4.2 AWS CodeCommit
 | 03 | [AWS CodeBuild]() |
 | 01 | [AWS CodeDeploy]() |
 | 02 | [AWS ECR / CodeArtifact]() |
