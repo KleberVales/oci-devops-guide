@@ -43,7 +43,7 @@
 ## 6. Security and Observability
 
 ### 6.1 DevSecOps
-| 19 | [Observability Services](https://github.com/KleberVales/oci-devops-guide/wiki/19-Observability-Services) |
+### 6.2 Observability Services
 
 ---
 
