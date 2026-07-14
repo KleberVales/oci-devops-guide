@@ -35,8 +35,6 @@
 ### 4.5 AWS ECR / CodeArtifact
 ### 4.6 AWS Environments (CodeDeploy)
 
---- 
-
 ## Infrastructure as Code (IaC)
 
 | Nº | Pages |
