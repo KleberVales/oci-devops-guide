@@ -40,9 +40,8 @@
 ### 5.1 Terraform: Infrastructure as Code
 ### 5.2 OCI Resource Manager
 
-## Security and Observability
+## 6. Security and Observability
 
-| Nº | Pages |
 |----|--------|
 | 18 | [DevSecOps](https://github.com/KleberVales/oci-devops-guide/wiki/18-DevSecOps) |
 | 19 | [Observability Services](https://github.com/KleberVales/oci-devops-guide/wiki/19-Observability-Services) |
