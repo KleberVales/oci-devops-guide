@@ -28,7 +28,6 @@
 
 ## 4. Projects with DevOps with AWS
 
-| Nº | Pages |
 |----|--------|
 | 01 | [AWS CodePipeline]() |
 | 02 | [AWS CodeCommit]() |
