@@ -43,6 +43,7 @@
 ## 2. Identity and Access Management
 ## 3. Networking - Virtual Cloud Network
 ## 4. Networking - IP Management
+## 5. Networking - Connectivity
 
 ---
 
