@@ -50,6 +50,7 @@
 ## 9. Compute
 ## 10. Object Storage
 ## 11. Block Storage
+## 12. File Storage
 
 ---
 
