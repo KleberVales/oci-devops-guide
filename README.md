@@ -45,6 +45,7 @@
 ## 4. Networking - IP Management
 ## 5. Networking - Connectivity
 ## 6. Networking - Load Balancer
+## 7. Networking - DNS Management
 
 ---
 
