@@ -49,6 +49,7 @@
 ## 8. Networking - Network Command Center
 ## 9. Compute
 ## 10. Object Storage
+## 11. Block Storage
 
 ---
 
