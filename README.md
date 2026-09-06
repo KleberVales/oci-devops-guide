@@ -48,6 +48,7 @@
 ## 7. Networking - DNS Management
 ## 8. Networking - Network Command Center
 ## 9. Compute
+## 10. Object Storage
 
 ---
 
