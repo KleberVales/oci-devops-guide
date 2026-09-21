@@ -121,6 +121,18 @@
 ### 7.8 Web Application Acceleration Concepts
 
 ## 7. Networking - DNS Management
+
+### 7.1 Module Overview
+### 7.2 What is DNS?
+### 7.3 DNS Service Components
+### 7.4 Zones
+### 7.5 Public DNS Zones
+### 7.6 Private DNS Zones
+### 7.7 Private Views
+### 7.8 HTTP redirects
+### 7.9 Traffic Management
+### 7.10 Traffic Management-Policy Types
+
 ## 8. Networking - Network Command Center
 ## 9. Compute
 ## 10. Object Storage
