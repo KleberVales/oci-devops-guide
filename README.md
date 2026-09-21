@@ -69,6 +69,58 @@
 ### 3.8 Use-Case: Object Level IAM
 
 ## 4. Networking - Virtual Cloud Network
+
+### 4.1 Module Overview
+### 4.2 CIDR Blocks/Prefixes 
+
+
+Virtual Cloud Network
+
+VCN Components - Quick Overview
+
+Subnets - Part 1
+
+Subnets - Part 2
+
+Demo: Create a VCN (Manually)
+
+Demo: Create a VCN (Using Wizard)
+
+Route Tables - Part 1
+
+Route Tables - Part 2
+
+Demo: Route Tables
+
+Internet Gateway
+
+Demo: Internet Gateway
+
+NAT Gateway
+
+Demo: NAT Gateway
+
+Service Gateway
+
+Demo: Service Gateway
+
+Public Subnet
+
+Demo: Public Subnet
+
+Private Subnet
+
+Demo: Private Subnet
+
+VCN Security
+
+Network Security Groups - Part 1
+
+Network Security Groups - Part 2
+
+Demo: Network Security Groups
+
+Security Lists
 ## 5. Networking - IP Management
 ## 6. Networking - Connectivity
 ## 7. Networking - Load Balancer
