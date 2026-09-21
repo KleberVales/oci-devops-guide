@@ -72,35 +72,13 @@
 
 ### 4.1 Module Overview
 ### 4.2 CIDR Blocks/Prefixes 
-
-
-Virtual Cloud Network
-
-VCN Components - Quick Overview
-
-Subnets - Part 1
-
-Subnets - Part 2
-
-Demo: Create a VCN (Manually)
-
-Demo: Create a VCN (Using Wizard)
-
-Route Tables - Part 1
-
-Route Tables - Part 2
-
-Demo: Route Tables
-
-Internet Gateway
-
-Demo: Internet Gateway
-
-NAT Gateway
-
-Demo: NAT Gateway
-
-Service Gateway
+### 4.3 Virtual Cloud Network
+### 4.4 VCN Components - Quick Overview
+### 4.5 Subnets
+### 4.6 Route Tables -
+### 4.7 Internet Gateway
+### 4.8 NAT Gateway
+### 4.9 Service Gateway
 
 Demo: Service Gateway
 
