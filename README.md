@@ -209,6 +209,15 @@
 
 ## 15. Block Storage - advanced
 
+### 15.1 Module Overview
+### 15.2 Resizing a Volume
+### 15.3 Block Volume Backups
+### 15.4 Block Volume Clones
+### 15.5 Block Volume Backup vs Clone Operation
+### 15.6 Block Volume: Cross-Region Replication
+### 15.7 Volume Groups
+### 15.8 Block Volume: Cross Availability Domain Replication
+
 ## 16. File Storage
 
 ---
