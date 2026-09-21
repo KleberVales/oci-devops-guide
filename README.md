@@ -197,9 +197,19 @@
 ### 13.7 Securing Object Storage
 ### 13.8 Pre-Authenticated Requests
 
-## 14. Block Storage
+## 14. Block Storage - basic
 
-## 15. File Storage
+### 14.1 Module Overview
+### 14.2 Overview of Block Volume
+### 14.3 Volume Attachment Types
+### 14.4 Volume Access Types
+### 14.5 Boot Volumes
+### 14.6 Block Volume Performance
+### 14.7 Dynamic performance scaling
+
+## 15. Block Storage - advanced
+
+## 16. File Storage
 
 ---
 
