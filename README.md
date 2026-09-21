@@ -79,10 +79,7 @@
 ### 4.7 Internet Gateway
 ### 4.8 NAT Gateway
 ### 4.9 Service Gateway
-
-Demo: Service Gateway
-
-Public Subnet
+### 4.10 Public Subnet
 
 Demo: Public Subnet
 
