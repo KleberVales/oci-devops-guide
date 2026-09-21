@@ -176,33 +176,15 @@
 
 ## 12. Object Storage - basic
 
-Module Overview
-
-Overview of Object Storage
-
-Object Storage Resources
-
-Object Storage Characteristics
-
-Demo: Create a Bucket - Console, Cloudshell, OCI CLI
-
-Demo: Upload and Access the Object & Bucket Visibility
-
-Multipart Uploads
-
-Demo: Multipart Uploads
-
-Managing Buckets and Objects
-
-Object Storage Tiers
-
-Auto-Tiering
-
-Demo: Update Storage Tier (Manually, Auto-Tiering)
-
-Object Lifecycle Management
-
-Demo: Update Storage Tier (Lifecycle Management)
+### 12.1 Module Overview
+### 12.2 Overview of Object Storage
+### 12.3 Object Storage Resources
+### 12.4 Object Storage Characteristics
+### 12.5 Multipart Uploads
+### 12.6 Managing Buckets and Objects
+### 12.7 Object Storage Tiers
+### 12.8 Auto-Tiering
+### 12.9 Object Lifecycle Management
 
 ## 13. Object Storage - Advanced
 
