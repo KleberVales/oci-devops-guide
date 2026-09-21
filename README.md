@@ -80,22 +80,11 @@
 ### 4.8 NAT Gateway
 ### 4.9 Service Gateway
 ### 4.10 Public Subnet
+### 4.11 Private Subnet
+### 4.12 VCN Security
+### 4.13 Network Security Groups
+### 4.14 Security Lists
 
-Demo: Public Subnet
-
-Private Subnet
-
-Demo: Private Subnet
-
-VCN Security
-
-Network Security Groups - Part 1
-
-Network Security Groups - Part 2
-
-Demo: Network Security Groups
-
-Security Lists
 ## 5. Networking - IP Management
 ## 6. Networking - Connectivity
 ## 7. Networking - Load Balancer
