@@ -86,6 +86,13 @@
 ### 4.14 Security Lists
 
 ## 5. Networking - IP Management
+
+### 5.1 Module Overview
+### 5.2 Overview of IP Management - Part 1
+### 5.3 Reserved Public IP
+### 5.4 BYOIP
+### 5.5 Public IP Pools
+
 ## 6. Networking - Connectivity
 ## 7. Networking - Load Balancer
 ## 7. Networking - DNS Management
