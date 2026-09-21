@@ -174,9 +174,41 @@
 ### 11.13 Shielded Instances
 ### 11.14 Confidential Computing
 
-## 12. Object Storage
-## 13. Block Storage
-## 14. File Storage
+## 12. Object Storage - basic
+
+Module Overview
+
+Overview of Object Storage
+
+Object Storage Resources
+
+Object Storage Characteristics
+
+Demo: Create a Bucket - Console, Cloudshell, OCI CLI
+
+Demo: Upload and Access the Object & Bucket Visibility
+
+Multipart Uploads
+
+Demo: Multipart Uploads
+
+Managing Buckets and Objects
+
+Object Storage Tiers
+
+Auto-Tiering
+
+Demo: Update Storage Tier (Manually, Auto-Tiering)
+
+Object Lifecycle Management
+
+Demo: Update Storage Tier (Lifecycle Management)
+
+## 13. Object Storage - Advanced
+
+## 14. Block Storage
+
+## 15. File Storage
 
 ---
 
