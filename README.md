@@ -110,6 +110,16 @@
 ### 6.13 Transit Routing Scenarios
 
 ## 7. Networking - Load Balancer
+
+### 7.1 Load Balancer 
+### 7.2 Load Balancer Policies
+### 7.3 Healthchecks
+### 7.4 Public Load Balancer
+### 7.5 Private Load Balancer
+### 7.6 Network Load Balancer
+### 7.7 Web Application Acceleration Overview
+### 7.8 Web Application Acceleration Concepts
+
 ## 7. Networking - DNS Management
 ## 8. Networking - Network Command Center
 ## 9. Compute
