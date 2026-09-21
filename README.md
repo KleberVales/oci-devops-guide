@@ -159,6 +159,21 @@
 
 ## 11. Compute - advanced
 
+### 11.1 Module Overview
+### 11.2 Burstable Instances
+### 11.3 Compute Vertical Scaling
+### 11.4 Compute AutoScaling
+### 11.5 Oracle Cloud Agent
+### 11.6 Oracle OS Management Hub
+### 11.7 OS Management Hub - Workflow
+### 11.8 OS Management Hub - Components
+### 11.9 OS Management Hub for OCI Instances
+### 11.10 Run Command
+### 11.11 Instance Console Connection
+### 11.12 Infrastructure Maintenance
+### 11.13 Shielded Instances
+### 11.14 Confidential Computing
+
 ## 12. Object Storage
 ## 13. Block Storage
 ## 14. File Storage
