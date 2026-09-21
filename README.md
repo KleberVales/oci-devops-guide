@@ -188,6 +188,15 @@
 
 ## 13. Object Storage - Advanced
 
+### 13.1 Module Overview
+### 13.2 Object Storage Replication
+### 13.3 Object Versioning
+### 13.4 Retention Rules
+### 13.5 Object Copy
+### 13.6 Object Storage Logging
+### 13.7 Securing Object Storage
+### 13.8 Pre-Authenticated Requests
+
 ## 14. Block Storage
 
 ## 15. File Storage
