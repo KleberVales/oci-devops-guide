@@ -134,7 +134,29 @@
 ### 7.10 Traffic Management-Policy Types
 
 ## 8. Networking - Network Command Center
+
+### 8.1 Module Overview
+### 8.2 Network Command Center Overview
+### 8.3 Inter-Region Latency
+### 8.4 Network Path Analyzer
+### 8.5 Network Visualizer
+### 8.6 Capture filters
+### 8.7 Virtual Test Access Points
+
 ## 9. Compute
+
+### 9.1 Module Overview
+### 9.2 Overview of Compute Service
+### 9.3 Platform and Custom Images
+### 9.4 Import Export and BYOI
+### 9.5 Compute Shapes
+### 9.6 GPU Shapes
+### 9.7 Bare Metal vs Virtual Machine vs Dedicated Hosts
+### 9.8 Capacity Types Preemptible Instances
+### 9.9 Capacity Types Capacity Reservations
+### 9.10 Capacity Types Dedicated VM Host
+### 9.11 Dedicated VM Host
+
 ## 10. Object Storage
 ## 11. Block Storage
 ## 12. File Storage
