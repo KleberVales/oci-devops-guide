@@ -58,6 +58,16 @@
 ### 2.9 Compartment Quotas
 
 ## 3. Networking - Virtual Cloud Network
+
+### 3.1 Policy Inheritance and Attachment for Compartments
+### 3.2 Conditional Policies
+### 3.3 Advanced Polices
+### 3.4 Tag Based Access Control
+### 3.5 Network Sources
+### 3.6 Dynamic Groups
+### 3.7 IAM Policy Optimization 
+### 3.8 Use-Case: Object Level IAM
+
 ## 4. Networking - IP Management
 ## 5. Networking - Connectivity
 ## 6. Networking - Load Balancer
