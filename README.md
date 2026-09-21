@@ -218,7 +218,18 @@
 ### 15.7 Volume Groups
 ### 15.8 Block Volume: Cross Availability Domain Replication
 
-## 16. File Storage
+## 16. File Storage - basic
+
+### 16.1 Module Overview
+### 16.2 Overview of File Storage
+### 16.3 File Storage Concepts
+### 16.4 NFS Export Options
+### 16.5 File System Paths
+
+## 17. File Storage - advanced
+
+
+
 
 ---
 
