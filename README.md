@@ -40,6 +40,11 @@
 # OCI Architect Associate
 
 ## 1. Identity and Access Management Overview
+
+### 1.1 Introduction to OCI IAM 9m
+### 1.2 Overview of Identity Domains 9m
+### 1.3 OCI IAM Identity Domain Types 5m
+
 ## 2. Identity and Access Management
 ## 3. Networking - Virtual Cloud Network
 ## 4. Networking - IP Management
