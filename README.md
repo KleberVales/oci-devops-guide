@@ -177,7 +177,8 @@ Cloud | DevOps | Generative AI | Methodologies | Architectures
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
+🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**  
+🏆 **Agentic AI Certified Foundations Associate**
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
