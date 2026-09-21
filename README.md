@@ -45,7 +45,7 @@
 ### 1.2 Overview of Identity Domains 
 ### 1.3 OCI IAM Identity Domain Types 
 
-## 2. Identity and Access Management
+## 2. Identity and Access Management - basic
 
 ### 2.1 Module Overview
 ### 2.2 Default Domain
@@ -57,7 +57,7 @@
 ### 2.8 Compartments
 ### 2.9 Compartment Quotas
 
-## 3. Networking - Virtual Cloud Network
+## 3. Identity and Access Management - Advanced
 
 ### 3.1 Policy Inheritance and Attachment for Compartments
 ### 3.2 Conditional Policies
@@ -68,9 +68,10 @@
 ### 3.7 IAM Policy Optimization 
 ### 3.8 Use-Case: Object Level IAM
 
-## 4. Networking - IP Management
-## 5. Networking - Connectivity
-## 6. Networking - Load Balancer
+## 4. Networking - Virtual Cloud Network
+## 5. Networking - IP Management
+## 6. Networking - Connectivity
+## 7. Networking - Load Balancer
 ## 7. Networking - DNS Management
 ## 8. Networking - Network Command Center
 ## 9. Compute
