@@ -120,46 +120,48 @@
 ### 7.7 Web Application Acceleration Overview
 ### 7.8 Web Application Acceleration Concepts
 
-## 7. Networking - DNS Management
-
-### 7.1 Module Overview
-### 7.2 What is DNS?
-### 7.3 DNS Service Components
-### 7.4 Zones
-### 7.5 Public DNS Zones
-### 7.6 Private DNS Zones
-### 7.7 Private Views
-### 7.8 HTTP redirects
-### 7.9 Traffic Management
-### 7.10 Traffic Management-Policy Types
-
-## 8. Networking - Network Command Center
+## 8. Networking - DNS Management
 
 ### 8.1 Module Overview
-### 8.2 Network Command Center Overview
-### 8.3 Inter-Region Latency
-### 8.4 Network Path Analyzer
-### 8.5 Network Visualizer
-### 8.6 Capture filters
-### 8.7 Virtual Test Access Points
+### 8.2 What is DNS?
+### 8.3 DNS Service Components
+### 8.4 Zones
+### 8.5 Public DNS Zones
+### 8.6 Private DNS Zones
+### 8.7 Private Views
+### 8.8 HTTP redirects
+### 8.9 Traffic Management
+### 8.10 Traffic Management-Policy Types
 
-## 9. Compute
+## 9. Networking - Network Command Center
 
 ### 9.1 Module Overview
-### 9.2 Overview of Compute Service
-### 9.3 Platform and Custom Images
-### 9.4 Import Export and BYOI
-### 9.5 Compute Shapes
-### 9.6 GPU Shapes
-### 9.7 Bare Metal vs Virtual Machine vs Dedicated Hosts
-### 9.8 Capacity Types Preemptible Instances
-### 9.9 Capacity Types Capacity Reservations
-### 9.10 Capacity Types Dedicated VM Host
-### 9.11 Dedicated VM Host
+### 9.2 Network Command Center Overview
+### 9.3 Inter-Region Latency
+### 9.4 Network Path Analyzer
+### 9.5 Network Visualizer
+### 9.6 Capture filters
+### 9.7 Virtual Test Access Points
 
-## 10. Object Storage
-## 11. Block Storage
-## 12. File Storage
+## 10. Compute - basic
+
+### 10.1 Module Overview
+### 10.2 Overview of Compute Service
+### 10.3 Platform and Custom Images
+### 10.4 Import Export and BYOI
+### 10.5 Compute Shapes
+### 10.6 GPU Shapes
+### 10.7 Bare Metal vs Virtual Machine vs Dedicated Hosts
+### 10.8 Capacity Types Preemptible Instances
+### 10.9 Capacity Types Capacity Reservations
+### 10.10 Capacity Types Dedicated VM Host
+### 10.11 Dedicated VM Host
+
+## 11. Compute - advanced
+
+## 12. Object Storage
+## 13. Block Storage
+## 14. File Storage
 
 ---
 
