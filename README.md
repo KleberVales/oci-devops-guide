@@ -94,6 +94,21 @@
 ### 5.5 Public IP Pools
 
 ## 6. Networking - Connectivity
+
+### 6.1 Module Overview
+### 6.2 VCN Connectivity Options
+### 6.3 Local VCN Peering 
+### 6.4 Remote VCN Peering
+### 6.5 BGP Basics
+### 6.6 Dynamic Routing Gateway 
+### 6.7 Site-to-Site VPN 
+### 6.8 Fast Connect Overview - Part 1
+### 6.9 Fast Connect With an Oracle Partner
+### 6.10 Fast Connect With a Third-Party Provider
+### 6.11 Fast Connect Colocation with Oracle
+### 6.12 FastConnect Redundancy Best Practices
+### 6.13 Transit Routing Scenarios
+
 ## 7. Networking - Load Balancer
 ## 7. Networking - DNS Management
 ## 8. Networking - Network Command Center
