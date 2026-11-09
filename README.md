@@ -240,6 +240,8 @@
 
 ### Kleber Vales
 
+Email: klebervales.dev@gmail.com  
+
 **Java & Spring Software Engineer**
 
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
