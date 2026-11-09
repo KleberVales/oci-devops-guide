@@ -241,6 +241,7 @@
 ### Kleber Vales
 
 Email: klebervales.dev@gmail.com  
+LinkedIn: www.linkedin.com/in/kleber-vales
 
 **Java & Spring Software Engineer**
 
