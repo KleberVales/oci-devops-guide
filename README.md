@@ -59,6 +59,8 @@
 ## 1.4 Identity Domains 
 
 ### 1.4.1 Introduction
+### 1.4.2 OCI IAM Identity Domain Types
+
 
 
 
