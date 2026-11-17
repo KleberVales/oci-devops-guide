@@ -86,7 +86,7 @@
 
 ### 3.2 BYOIP
 
-#### 3.2.1 Public
+#### 3.2.1 Public IP Pools
 
 ---
 
