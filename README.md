@@ -71,6 +71,8 @@
 ### 2.1 CIDR Blocks/Prefixes 
 
 #### 2.1.1 What is CIDR?
+#### 2.1.2 CIDR Notation
+
 
 
 
