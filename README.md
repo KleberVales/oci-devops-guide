@@ -62,7 +62,7 @@
 ### 1.4.2 OCI IAM Identity Domain Types
 ### 1.4.3 Objects
 ### 1.4.4 Administrations Roles
-### 1.5 Multiple identity domains
+### 1.4.5 Multiple identity domains
 
 ## 1.5 Network Sources
 
