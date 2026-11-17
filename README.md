@@ -82,9 +82,7 @@
 
 #### 3.1.1 VNIC
 #### 3.1.2 Public IP Address
-
-
-
+#### 3.1.3 Private
 
 
 ---
