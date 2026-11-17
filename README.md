@@ -51,9 +51,7 @@
 ## 1.2 Compartments
 
 ### 1.2.1 Introduction
-
-
-
+### 1.2.2 Compartment Quotas
 
 ---
 
