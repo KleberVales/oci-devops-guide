@@ -52,6 +52,7 @@
 
 ### 1.2.1 Introduction
 ### 1.2.2 Compartment Quotas
+### 1.2.3 Policies
 
 ---
 
