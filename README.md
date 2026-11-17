@@ -86,6 +86,8 @@
 
 ### 3.2 BYOIP
 
+#### 3.2.1 Public
+
 ---
 
 ### Kleber Vales
