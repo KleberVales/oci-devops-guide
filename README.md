@@ -45,12 +45,7 @@
 
 #### 1.1.1 What is  OCI IAM?
 #### 1.1.2 Authentication(AuthN)
-
-
-
-
-
-
+#### 1.1.3 Authorization(AuthZ)
 
 
 ---
