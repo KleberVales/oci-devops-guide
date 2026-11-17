@@ -68,6 +68,9 @@
 
 ## 2. Networking ‐ Virtual Cloud Network
 
+### 2.1 CIDR Blocks/Prefixes 
+
+
 
 ---
 
