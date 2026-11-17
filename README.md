@@ -48,23 +48,23 @@
 #### 1.1.3 Authorization(AuthZ)
 #### 1.1.4 OCI IAM Components
 
-## 1.2 Compartments
+### 1.2 Compartments
 
-### 1.2.1 Introduction
-### 1.2.2 Compartment Quotas
-### 1.2.3 Policies
+#### 1.2.1 Introduction
+#### 1.2.2 Compartment Quotas
+#### 1.2.3 Policies
 
-## 1.3 Default Domains
+### 1.3 Default Domains
 
-## 1.4 Identity Domains 
+### 1.4 Identity Domains 
 
-### 1.4.1 Introduction
-### 1.4.2 OCI IAM Identity Domain Types
-### 1.4.3 Objects
-### 1.4.4 Administrations Roles
-### 1.4.5 Multiple identity domains
+#### 1.4.1 Introduction
+#### 1.4.2 OCI IAM Identity Domain Types
+#### 1.4.3 Objects
+#### 1.4.4 Administrations Roles
+#### 1.4.5 Multiple identity domains
 
-## 1.5 Network Sources
+### 1.5 Network Sources
 
 ## 2. Networking ‐ Virtual Cloud Network
 
