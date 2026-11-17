@@ -74,7 +74,7 @@
 #### 2.1.2 CIDR Notation
 #### 2.1.3 Octets and IPv4 Bits
 #### 2.1.4 How Many IP Addresses Are in a CIDR Block?
-#### 2.1.5 Reserved
+#### 2.1.5 Reserved IP Addresses
 
 ---
 
