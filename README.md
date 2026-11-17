@@ -54,6 +54,9 @@
 ### 1.2.2 Compartment Quotas
 ### 1.2.3 Policies
 
+## 2.3 Default Domains
+
+
 ---
 
 ### Kleber Vales
