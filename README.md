@@ -81,6 +81,8 @@
 ### 3.1 IP Management 
 
 #### 3.1.1 VNIC
+#### 3.1.2 Public IP Address
+
 
 
 
