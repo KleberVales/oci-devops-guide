@@ -54,9 +54,13 @@
 ### 1.2.2 Compartment Quotas
 ### 1.2.3 Policies
 
-## 2.3 Default Domains
+## 1.3 Default Domains
 
-## 2.4 Identity Domains 
+## 1.4 Identity Domains 
+
+### 1.4.1 Introduction
+
+
 
 
 
