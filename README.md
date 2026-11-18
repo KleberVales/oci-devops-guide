@@ -92,8 +92,7 @@
 
 ### 4.1 VCN Connectivity Options
 
-
-
+### 4.2 VCN
 
 ---
 
