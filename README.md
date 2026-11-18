@@ -129,6 +129,11 @@
 #### Architecture: Regional Subnet
 #### Architecture: AD-Specific Subnets
 
+### 5.4 Private Load Balancer
+
+
+
+
 
 
 ---
