@@ -105,7 +105,7 @@
 #### 4.3.5 Dynamic Routing Gateway 
 #### 4.3.6 Transit Routing Scenarios
 
-## 5. Networking
+## 5. Networking ‐ Load Balancer
 
 ---
 
