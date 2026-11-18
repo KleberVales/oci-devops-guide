@@ -101,7 +101,8 @@
 #### 4.3.1 Public Internet
 #### 4.3.2 Site-to-Site VPN
 #### 4.3.3 FastConnect
-#### 4.3.4 Border Gateway
+#### 4.3.4 Border Gateway Protocol
+
 
 
 
