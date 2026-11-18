@@ -98,7 +98,8 @@
 #### 4.2.2 Remote VCN Peering
 
 ### 4.3 VCN to On-Premises
-#### 4.3.1 Public
+#### 4.3.1 Public Internet
+
 
 
 ---
