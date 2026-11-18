@@ -124,6 +124,7 @@
 ### 5.3 Public Load Balancer
 
 #### Placement Requirements
+#### Primary and Standby
 
 ---
 
