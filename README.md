@@ -127,6 +127,8 @@
 #### Primary and Standby
 #### IP Address Requirements
 #### Architecture: Regional Subnet
+#### Architecture: AD-Specific Subnets
+
 
 
 ---
