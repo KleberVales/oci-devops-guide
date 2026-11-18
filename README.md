@@ -131,6 +131,11 @@
 
 ### 5.4 Private Load Balancer
 
+#### Subnet Requirement
+#### Accessibility
+#### Floating Private IP Address
+
+
 
 
 
