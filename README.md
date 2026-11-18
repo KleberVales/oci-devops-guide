@@ -123,7 +123,7 @@
 
 ### 5.3 Public Load Balancer
 
-
+#### Placement Requirements
 
 ---
 
