@@ -116,6 +116,8 @@
 #### C. health check policies 
 #### D. listeners
 #### E. load balancing policy
+#### F. Shape of the Load Balancer
+
 
 ---
 
