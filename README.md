@@ -115,8 +115,7 @@
 #### B. backend sets
 #### C. health check policies 
 #### D. listeners
-
-
+#### E. load balancing policy
 
 ---
 
