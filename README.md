@@ -143,6 +143,7 @@
 
 #### What Is Web Application Acceleration?
 #### How to Work with Web Application Acceleration
+#### Caching and Compression Explained
 
 ---
 
