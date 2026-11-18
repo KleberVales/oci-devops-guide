@@ -90,7 +90,7 @@
 
 ## 4. Networking ‐ Connectivity
 
-### 4.1 VCN
+### 4.1 VCN Connectivity
 
 
 ---
