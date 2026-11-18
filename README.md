@@ -95,7 +95,8 @@
 ### 4.2 VCN to VCN
 
 #### 4.2.1 Local VCN Peering
-#### 4.2.2 Remote
+#### 4.2.2 Remote VCN Peering
+
 
 ---
 
