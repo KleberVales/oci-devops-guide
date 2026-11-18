@@ -141,6 +141,7 @@
 
 ### 5.6 Web Application Acceleration 
 
+#### What Is Web Application Acceleration?
 
 
 ---
