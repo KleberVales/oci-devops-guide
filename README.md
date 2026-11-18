@@ -126,6 +126,8 @@
 #### Placement Requirements
 #### Primary and Standby
 #### IP Address Requirements
+#### Architecture: Regional Subnet
+
 
 ---
 
