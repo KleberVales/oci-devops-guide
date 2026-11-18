@@ -88,6 +88,8 @@
 
 #### 3.2.1 Public IP Pools
 
+## 4. Networking
+
 ---
 
 ### Kleber Vales
