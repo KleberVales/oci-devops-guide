@@ -99,6 +99,7 @@
 
 ### 4.3 VCN to On-Premises
 #### 4.3.1 Public Internet
+#### 4.3.2 Site-to-Site
 
 
 
