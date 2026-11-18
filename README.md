@@ -119,7 +119,7 @@
 #### F. Shape of the Load Balancer
 #### G. SSL
 #### H. Session Persistence
-
+#### I. Certificates
 
 ---
 
