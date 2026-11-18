@@ -103,13 +103,7 @@
 #### 4.3.3 FastConnect
 #### 4.3.4 Border Gateway Protocol
 #### 4.3.5 Dynamic Routing Gateway 
-#### 4.3.6 Transit
-
-
-
-
-
-
+#### 4.3.6 Transit Routing Scenarios
 
 ---
 
