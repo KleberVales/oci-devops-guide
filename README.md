@@ -139,6 +139,8 @@
 
 #### Load Balancing Policies
 
+### 5.6 Web Application Acceleration 
+
 
 
 ---
