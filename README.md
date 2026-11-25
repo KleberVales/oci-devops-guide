@@ -149,22 +149,23 @@
 
 ### Kleber Vales
 
-Email: klebervales.dev@gmail.com  
-LinkedIn: www.linkedin.com/in/kleber-vales
+📧 Email: klebervales.dev@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/kleber-vales](https://www.linkedin.com/in/kleber-vales)
 
 **Java & Spring Software Engineer**
 
-| Cloud | DevOps | Generative AI | Methodologies | Architectures |
-
-**Certifications**  
-
-🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**  
-🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
-🏆 **Microsoft MTA – Software Development Fundamentals**  
-🏆 **Scrum Fundamentals Certified (SFC™)**  
-🏆 **Agentic AI Certified Foundations Associate**  
-🏆 **OCI AI Foundations Associate**  
+`DevOps` | `Cloud` | `Generative AI` | `Software Architecture` | `Agile Methodologies`
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
+
+**CERTIFICATIONS**
+
+🏆 **OCI 2025 – DevOps Professional | Generative AI Professional**  
+🏆 **OCI Architect Associate**  
+🏆 **OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals**  
+🏆 **OCI AI Foundations Associate | Agentic AI Certified Fundations Associate**  
+🏆 **Scrum Fundamentals Certified (SFC™)**
+
+
+
